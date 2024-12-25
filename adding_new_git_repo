@@ -1,0 +1,7 @@
+git init <br>
+git remote add origin (link of the repo that we have created for push) <br>
+git remote -v (to verify) <br>
+git branch (to check branch if its not main, change it to main) <br>
+git branch -M main(to rename) <br>
+git push origin main (to push to github) <br>
+git push -u origin main (to push to github and tell the file i am pushing in same location for now and next time we can use only git push)
