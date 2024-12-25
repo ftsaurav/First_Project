@@ -3,3 +3,5 @@ git branch -M main (to rename branch)
 git checkout <branch name> (to navigate)
 git checkout -b <branch name> (to create new branch)
 git branch -d (to delete a branch)
+
+just trying to add some features in feature1
