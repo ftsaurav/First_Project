@@ -4,5 +4,6 @@ git checkout <branch name> (to navigate)
 git checkout -b <branch name> (to create new branch)
 git branch -d (to delete a branch)
 git diff <file name to compare>
+git pull origin main(to add the code same as on the global to local)
 
 just trying to add some features in feature1
